@@ -1,0 +1,20 @@
+# Ignore test folders
+test_backup/
+test_backup_dest/
+test_tmp/
+
+# Ignore macOS/Windows system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore log and temp files
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Ignore editor backups
+*~
+
